@@ -36,7 +36,7 @@ st.header(" Celebrate your wins!")
 acheivment = st.txt_input("Share something you've recently accomplished!")
 
 if acheivment:
-    st.success(f"👑  Amazing! you achieved: {acheivment}")
+    st.success(f"  Amazing! you achieved: {acheivment}")
 else:
     st.info("Big or Small, every achievement counts! share one now") 
 

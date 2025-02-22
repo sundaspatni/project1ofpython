@@ -5,7 +5,7 @@ import streamlit as st
 st.set_page_config(page_title= "Mindset Challenge project")
 st.title("Challenge Mindset AI Project: Web App with Streamlit ")
 
-st.header(" Welcome to Mndset Challenge Journey!")
+st.header(" Welcome to Mindset Challenge Journey!")
 st.write(" This journey begins with self-awareness, recognizing the limitations of previous thinking, and being open to new strategies. Along the way, individuals face obstacles, but instead of being discouraged, they see these as opportunities to grow and learn.")
 
 #quote about success

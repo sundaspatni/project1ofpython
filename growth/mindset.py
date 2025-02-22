@@ -33,7 +33,7 @@ else:
 #achievements
 
 st.header(" Celebrate your wins!")
-acheivment = st.txt_input("Share something you've recently accomplished!")
+acheivment = st.text_input("Share something you've recently accomplished:")
 
 if acheivment:
     st.success(f"  Amazing! you achieved: {acheivment}")
